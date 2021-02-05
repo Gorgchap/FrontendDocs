@@ -6,8 +6,8 @@
 5. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 6. [CSS Triggers](https://csstriggers.com/)
 7. [HTML5 Periodical Table](https://websitesetup.org/html5-periodical-table/)
-8. [Sass](https://sass-scss.ru/documentation/)
-9. [TypeScript](http://typescript-lang.ru/docs/)
+8. [Local Storage vs. Session Storage vs. Cookie](https://ru.hexlet.io/blog/posts/lokalnoe-hranilische-vs-sessionnoe-hranilische-vs-cookie)
+9. [Dom Manipulation Javascript Methods](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 10. [Change Detection In Angular](https://dev-gang.ru/article/vse-czto-vam-nuzhno-znat-o-change-detection-v-angular-s6rpx73job/)
 11. [Dependency Injection In Angular](dependency-injection-in-angular.md)
 
@@ -34,15 +34,20 @@
 6. [Bootstrap](https://getbootstrap.com/)
 7. [DevDocs.io](https://devdocs.io/)
 8. [Lodash](https://lodash.com/)
-9. [React Bootstrap](https://react-bootstrap.github.io/)
-9. [Reactstrap](https://reactstrap.github.io/)
-10. [RxJS](https://rxjs-dev.firebaseapp.com/)
+9. [Material UI](https://material-ui.com/)
+10. [React Bootstrap](https://react-bootstrap.github.io/)
+11. [Reactstrap](https://reactstrap.github.io/)
+12. [RxJS](https://rxjs-dev.firebaseapp.com/)
+13. [Sass Scss](https://sass-scss.ru)
+14. [Three.js](https://threejs.org/)
+15. [TypeScript](http://typescript-lang.ru/docs/index.html)
 
 
 #### **Плюшки**
 1. [Ngx-spinner](https://napster2210.github.io/ngx-spinner/)
-2. [Асинхронность, событийный цикл](https://www.youtube.com/watch?v=8cV4ZvHXQL4)
-3. [Пакеты npm](https://www.npmjs.com/)
+2. [Regex online](https://regex101.com/)
+3. [Асинхронность, событийный цикл](https://www.youtube.com/watch?v=8cV4ZvHXQL4)
+4. [Пакеты npm](https://www.npmjs.com/)
 
 
 #### **Статьи**
