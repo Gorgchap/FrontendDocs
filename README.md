@@ -55,7 +55,7 @@
 
 
 #### **Статьи**
-1. [Angular, Node js, RxJS & NgRx на русском языке](https://webdraftt.com/)
+1. [Главная | Angular с примерами кода](https://angdev.ru/)
 2. [HTML5BOOK](https://html5book.ru/)
 3. [Javascript Char Codes (Key Codes)](https://www.cambiaresearch.com/)
 4. [Браузер: документ, события, интерфейсы](https://learn.javascript.ru/ui)
