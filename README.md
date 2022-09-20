@@ -24,7 +24,7 @@
 
 #### **Email**
 1. [Для проверки регистрации можно использовать временную почту](https://temp-mail.org/ru/)
-2. [Вёрстка писем (с указанием где потестить)](https://www.unisender.com/ru/blog/sovety/kak-sverstat-pismo-instruktsiya-dlya-chaynikov)
+2. [Вёрстка писем (с указанием где тестить)](https://www.unisender.com/ru/blog/sovety/kak-sverstat-pismo-instruktsiya-dlya-chaynikov)
 3. [Как правильно верстать письма: рекомендации и требования для верстальщика](https://www.cossa.ru/trends/239682/)
 4. [Тонкости работы с Outlook](https://blog.expertsender.ru/2020/04/21/tonkosti-raboty-s-outlook/)
 
@@ -38,7 +38,7 @@
 6. [Bootstrap](https://getbootstrap.com/)
 7. [DevDocs.io](https://devdocs.io/)
 8. [Lodash](https://lodash.com/)
-9. [Material UI](https://material-ui.com/)
+9. [Material UI](https://mui.com)
 10. [React Bootstrap](https://react-bootstrap.github.io/)
 11. [Reactstrap](https://reactstrap.github.io/)
 12. [RxJS](https://rxjs-dev.firebaseapp.com/)
@@ -51,7 +51,7 @@
 1. [Ngx-spinner](https://napster2210.github.io/ngx-spinner/)
 2. [Regex online](https://regex101.com/)
 3. [Асинхронность, событийный цикл](https://www.youtube.com/watch?v=8cV4ZvHXQL4)
-4. [Пакеты npm](https://www.npmjs.com/)
+4. [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k)
 
 
 #### **Статьи**
